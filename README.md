@@ -2,14 +2,14 @@
 Exar USB Serial Driver with RS485 support
 
 This driver should work with any USB UART function in these Exar devices:
- 	
-XR21V1410/1412/1414
-
-XR21B1411
-
-XR21B1420/1422/1424
-
-XR22801/802/804
+  
+  XR21V1410/1412/1414
+  
+  XR21B1411
+  
+  XR21B1420/1422/1424
+  
+  XR22801/802/804
 
 The source code has been tested on Linux kernel 6.6 on Raspberry Pi.  
 This may also work with other kernels as well.  
