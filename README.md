@@ -2,6 +2,7 @@
 Exar USB Serial Driver with RS485 support
 
 This driver should work with any USB UART function in these Exar devices:
+
 	XR21V1410/1412/1414
 	XR21B1411
 	XR21B1420/1422/1424
