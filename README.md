@@ -28,7 +28,7 @@ Installation
 
 # 	
   	make
-  	make install
+  	sudo make install
 
 * Plug the device into the USB host.  You should see up to four devices created,
   typically /dev/ttyXRUSB[0-3].
