@@ -33,3 +33,14 @@ Installation
 * Plug the device into the USB host.  You should see up to four devices created,
   typically /dev/ttyXRUSB[0-3].
 
+Testing
+------------
+# 	
+  	pip install epevermodbus
+  	epevermodbus --portname /dev/ttyXRUSB0 --slaveaddress 1
+
+Useful repos:
+------------
+https://github.com/rosswarren/epevermodbus
+
+https://github.com/fatyogi/epever-upower-tracer
